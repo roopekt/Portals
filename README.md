@@ -53,5 +53,8 @@ This project is distributed under the MIT License. See `LICENSE.txt` for more in
 
 - There are some visual artifacts when close to portals
 	- low resolution
-	- near plane of the player camera clips through the portal
+	- near plane of the player camera clips through the portal 
+<br/><br/>
+![bad visual artifacts](https://github.com/roopekt/Portals/blob/main/ReadmeData/artifacts.png)
+<br/><br/>
 - Objects passing through portals have only one collider, so they can act weird when trying to push them from the wrong side of the portal
