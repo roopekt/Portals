@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1a525549fe782449a92e3d5d15d2063
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - portalCamera: {instanceID: 0}
+  - materialSettings: {fileID: 2100000, guid: a0fe03b42af19fc449ab8fd5bfb2f026, type: 2}
+  - renderTextureSettings: {fileID: 8400000, guid: f2353842e8b9e1140ab667275d461157,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
