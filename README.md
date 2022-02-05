@@ -1,6 +1,6 @@
 # Portals 
 
-A "game" made with unity with impossible geometry thanks to seamless see-through portals. The player and physics objects can move through them freely.
+A "game" made with unity featuring impossible geometry. This is done with seamless see-through portals.
 
 ## Installation 
 
@@ -44,3 +44,10 @@ This project is distributed under the MIT License. See `LICENSE.txt` for more in
 - The skybox is part of [Free HDR Sky](https://assetstore.unity.com/packages/2d/textures-materials/sky/free-hdr-sky-61217) by ProAssets (free asset)
 - Textures have been dowloaded from [Poliigon](https://www.poliigon.com/) (all free textures)
 - This project has a screenspace shader that is based on a [tutorial](https://www.youtube.com/watch?v=cuQao3hEKfs) by [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+
+## Caveats
+
+- There are some visual artifacts when close to portals
+	- low resolution
+	- near plane of the player camera clips through the portal
+- Objects passing through portals have only one collider, so they can act weird when trying to push them from the wrong side of the portal
