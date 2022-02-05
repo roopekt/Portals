@@ -4,7 +4,7 @@ A "game" made with unity featuring impossible geometry. This is done with seamle
 
 ## Installation 
 
-__IMPORTANT__: This porject uses multiple resources (skybox, textures) that can not be redistributed as part of an open source project.
+__IMPORTANT__: This project uses multiple resources (skybox, textures) that can not be redistributed as part of an open source project.
 These files will not be included when you clone the project.
 
  1. Clone the repository
@@ -42,8 +42,8 @@ This project is distributed under the MIT License. See `LICENSE.txt` for more in
 ## Acknowledgments 
 
 - The skybox is part of [Free HDR Sky](https://assetstore.unity.com/packages/2d/textures-materials/sky/free-hdr-sky-61217) by ProAssets (free asset)
-- Textures have been dowloaded from [Poliigon](https://www.poliigon.com/) (all free textures)
-- This project has a screenspace shader that is based on a [tutorial](https://www.youtube.com/watch?v=cuQao3hEKfs) by [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+- Textures have been downloaded from [Poliigon](https://www.poliigon.com/) (all free textures)
+- This project has a screen space shader that is based on a [tutorial](https://www.youtube.com/watch?v=cuQao3hEKfs) by [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
 ## Caveats
 
