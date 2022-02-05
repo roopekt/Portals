@@ -19,6 +19,8 @@ These files will not be included when you clone the project.
 	- Install Unity Hub from https://unity3d.com/get-unity/download
 	- Using the hub, install  an editor with the version 2019.4.4f1 (LTS). Remember to check visual studio integration when prompted about additional packages.
 4. Locate and open the project trough Unity Hub
+5. Install ProBuilder 4.2.3 through the package manager
+6. Install ProGrids 3.0.3 through the package manager
 
 ## Usage 
 
