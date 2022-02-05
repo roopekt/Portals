@@ -1,6 +1,8 @@
 # Portals 
 
 A "game" made with unity featuring impossible geometry. This is done with seamless see-through portals.
+<br/><br/>
+![Portal example](https://github.com/roopekt/Portals/blob/main/ReadmeData/portal_example.png)
 
 ## Installation 
 
@@ -31,6 +33,8 @@ These files will not be included when you clone the project.
 2. The player camera finds all portals that are visible to it.
 3. Each portal finds all portals visible to it, until there are no more visible portals or resources to render them.
 4. A special projection matrix is calculated for each portal camera, so that its near plane perfectly matches the portal quad.
+<br/><br/>
+![Portal example](https://github.com/roopekt/Portals/blob/main/ReadmeData/frustum_diagram.png)
 5. A camera renders all the portals to their textures. This is done using the just calculated projection matrices, and in backwards order to how they were found.
 6. The player camera renders.
 7. Objects that have moved through portals are teleported.
