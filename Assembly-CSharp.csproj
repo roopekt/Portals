@@ -72,7 +72,6 @@
     <Compile Include="Assets\Scripts\CustomMaxAngularSpeed.cs" />
     <Compile Include="Assets\Scripts\ExitOnEsc.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
-    <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <None Include="Assets\PortalSystem\Resources\ScreenSpaceShader.shader" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Programs/UnityEditors/2019.4.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>

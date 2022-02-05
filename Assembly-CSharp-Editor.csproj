@@ -67,7 +67,6 @@
     <Compile Include="Assets\PortalSystem\Editor\PortalEditor.cs" />
     <Compile Include="Assets\PortalSystem\Editor\PortalRendererEditor.cs" />
     <Compile Include="Assets\PortalSystem\Editor\TeleporterEditor.cs" />
-    <Compile Include="Assets\TutorialInfo\Scripts\Editor\ReadmeEditor.cs" />
     <Reference Include="UnityEngine">
       <HintPath>D:/Programs/UnityEditors/2019.4.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
