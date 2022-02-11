@@ -9,6 +9,8 @@ A "game" made with unity featuring impossible geometry. This is done with seamle
 __IMPORTANT__: This project uses multiple resources (skybox, textures) that can not be redistributed as part of an open source project.
 These files will not be included when you clone the project.
 
+If you only need the binaries, you can get them [here](https://github.com/roopekt/Portals/releases). Otherwise:
+
  1. Clone the repository
 	```shell
 	git clone https://github.com/roopekt/Portals.git
