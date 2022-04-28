@@ -53,7 +53,7 @@ This project is distributed under the MIT License. See `LICENSE.txt` for more in
 - Textures have been downloaded from [Poliigon](https://www.poliigon.com/) (all free textures)
 - This project has a screen space shader that is based on a [tutorial](https://www.youtube.com/watch?v=cuQao3hEKfs) by [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
-## Caveats
+## Known problems
 
 - There are some visual artifacts when close to portals
 	- low resolution
